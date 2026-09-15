@@ -263,7 +263,7 @@ lab2-k6/
 │   ├── run-05vu.txt
 │   ├── run-30vu.txt
 │   └── run-100vu.txt
-└── screenshots/
+
 ```
 
 ---
